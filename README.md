@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Merhaba, ben Zeynep Ebrar
 
-<!--
-**zeynepebrartunc/zeynepebrartunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yazılım Mühendisliği öğrencisiyim  
+📱 Mobil uygulama geliştirme alanında kendimi geliştiriyorum  
+🌱 Şu anda android teknolojileri üzerinden ilerliyorum
+🚀 Kendimi geliştirmeye çalışıyorum  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Öğrendiğim / Öğrenmekte Olduğum Teknolojiler
+
+- Java
+- C++
+- Git & GitHub (öğreniyorum)
+- HTML (öğreniyorum)
+- CSS (öğreniyorum)
+
+---
+
+## 📌 Hedeflerim
+
+- Mobil uygulama geliştirme alanında uzmanlaşmak
+- Gerçek projeler geliştirmek
+- Açık kaynak projelere katkı sağlamak
+
+---
+
+## 📫 Bana Ulaş
+
+- LinkedIn: https://www.linkedin.com/in/zeynep-ebrar-tun%C3%A7-12b3783b3/
+- Mail: zeynepebrar.tnc@gmail.com
