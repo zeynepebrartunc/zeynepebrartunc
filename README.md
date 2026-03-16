@@ -10,7 +10,7 @@
 ## 🛠️ Öğrendiğim / Öğrenmekte Olduğum Teknolojiler
 
 - Java
-- C++
+- C/C++(belli seviyede)
 - Git & GitHub (öğreniyorum)
 - HTML (öğreniyorum)
 - CSS (öğreniyorum)
