@@ -15,6 +15,7 @@
 - HTML 
 - CSS
 - Javascript (öğreniyorum)
+- SQL (öğreniyorum)
 
 ---
 
