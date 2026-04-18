@@ -12,8 +12,9 @@
 - Java
 - C/C++(belli seviyede)
 - Git & GitHub (öğreniyorum)
-- HTML (öğreniyorum)
-- CSS (öğreniyorum)
+- HTML 
+- CSS
+- Javascript (öğreniyorum)
 
 ---
 
