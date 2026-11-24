@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Zeynep Ebrar
 
 🎓 Yazılım Mühendisliği öğrencisiyim  
-📱 Mobil uygulama geliştirme alanında kendimi geliştiriyorum  
+📱 Mobil uygulama geliştirme ve veri alanlarına ilgi duyuyorum 
 🌱 Şu anda android teknolojileri üzerinden ilerliyorum
 🚀 Kendimi geliştirmeye çalışıyorum  
 
@@ -12,16 +12,17 @@
 - Java
 - C/C++(belli seviyede)
 - Git & GitHub (öğreniyorum)
-- HTML 
-- CSS
-- Javascript (öğreniyorum)
+- HTML / CSS
+- Javascript
 - SQL (öğreniyorum)
+- Python
+- Dart / Flutter (öğreniyorum)
 
 ---
 
 ## 📌 Hedeflerim
 
-- Mobil uygulama geliştirme alanında uzmanlaşmak
+- Mobil uygulama geliştirme ve veri allarında uzmanlaşmak
 - Gerçek projeler geliştirmek
 - Açık kaynak projelere katkı sağlamak
 
